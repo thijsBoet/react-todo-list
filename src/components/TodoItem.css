@@ -1,0 +1,7 @@
+div{
+  display: inline;
+}
+span {
+  float: right;
+  cursor: pointer;
+}
