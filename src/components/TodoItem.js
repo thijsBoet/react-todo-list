@@ -21,6 +21,7 @@ export default class TodoItem extends Component {
           >
             <i className="fas fa-trash icon" />
           </span>
+        </div>
       </li>
     );
   }
